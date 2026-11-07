@@ -1,0 +1,317 @@
+{
+ "surum": "v1",
+ "konular": [
+  {
+   "kod": "1a",
+   "klasor": "1a",
+   "ad": "Çalışma mevzuatı",
+   "bazDk": 20,
+   "egitici": "İGU",
+   "baslik": 1,
+   "slaytSayisi": 17,
+   "slaytToplamSn": 1200
+  },
+  {
+   "kod": "1b",
+   "klasor": "1b",
+   "ad": "Yasal hak ve sorumluluklar",
+   "bazDk": 20,
+   "egitici": "İGU",
+   "baslik": 1,
+   "slaytSayisi": 17,
+   "slaytToplamSn": 1200
+  },
+  {
+   "kod": "1c",
+   "klasor": "1c",
+   "ad": "İşyeri temizliği ve düzeni",
+   "bazDk": 15,
+   "egitici": "İGU",
+   "baslik": 1,
+   "slaytSayisi": 16,
+   "slaytToplamSn": 900
+  },
+  {
+   "kod": "1ç",
+   "klasor": "1c2",
+   "ad": "İş kazası ve meslek hastalığının hukuki sonuçları",
+   "bazDk": 25,
+   "egitici": "İGU",
+   "baslik": 1,
+   "slaytSayisi": 18,
+   "slaytToplamSn": 1500
+  },
+  {
+   "kod": "2a",
+   "klasor": "2a",
+   "ad": "Meslek hastalıklarının sebepleri",
+   "bazDk": 20,
+   "egitici": "İH",
+   "baslik": 2,
+   "slaytSayisi": 15,
+   "slaytToplamSn": 1200
+  },
+  {
+   "kod": "2b",
+   "klasor": "2b",
+   "ad": "Korunma prensipleri ve teknikleri",
+   "bazDk": 15,
+   "egitici": "İH",
+   "baslik": 2,
+   "slaytSayisi": 15,
+   "slaytToplamSn": 900
+  },
+  {
+   "kod": "2c",
+   "klasor": "2c",
+   "ad": "Biyolojik ve psikososyal risk etmenleri",
+   "bazDk": 20,
+   "egitici": "İH",
+   "baslik": 2,
+   "slaytSayisi": 18,
+   "slaytToplamSn": 1200
+  },
+  {
+   "kod": "2ç",
+   "klasor": "2c2",
+   "ad": "İlkyardım",
+   "bazDk": 20,
+   "egitici": "İH",
+   "baslik": 2,
+   "slaytSayisi": 18,
+   "slaytToplamSn": 1200
+  },
+  {
+   "kod": "2d",
+   "klasor": "2d",
+   "ad": "Bağımlılık yapıcı maddeler ve teknoloji bağımlılığı",
+   "bazDk": 15,
+   "egitici": "İH",
+   "baslik": 2,
+   "slaytSayisi": 17,
+   "slaytToplamSn": 900
+  },
+  {
+   "kod": "3a",
+   "klasor": "3a",
+   "ad": "Kimyasal, fiziksel ve ergonomik risk etmenleri",
+   "bazDk": 25,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 19,
+   "slaytToplamSn": 1500
+  },
+  {
+   "kod": "3b",
+   "klasor": "3b",
+   "ad": "Elle kaldırma ve taşıma",
+   "bazDk": 15,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 17,
+   "slaytToplamSn": 900
+  },
+  {
+   "kod": "3c",
+   "klasor": "3c",
+   "ad": "Parlama ve patlama",
+   "bazDk": 15,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 16,
+   "slaytToplamSn": 900
+  },
+  {
+   "kod": "3ç",
+   "klasor": "3c2",
+   "ad": "Yangın ve yangından korunma",
+   "bazDk": 30,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 27,
+   "slaytToplamSn": 1800
+  },
+  {
+   "kod": "3d",
+   "klasor": "3d",
+   "ad": "İş ekipmanlarının güvenli kullanımı",
+   "bazDk": 15,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 16,
+   "slaytToplamSn": 900
+  },
+  {
+   "kod": "3e",
+   "klasor": "3e",
+   "ad": "Ekranlı araçlarla çalışma",
+   "bazDk": 30,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 18,
+   "slaytToplamSn": 1800
+  },
+  {
+   "kod": "3f",
+   "klasor": "3f",
+   "ad": "Elektrik, tehlikeleri, riskleri ve önlemleri",
+   "bazDk": 20,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 18,
+   "slaytToplamSn": 1200
+  },
+  {
+   "kod": "3g",
+   "klasor": "3g",
+   "ad": "İş kazalarının sebepleri ve korunma",
+   "bazDk": 25,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 18,
+   "slaytToplamSn": 1500
+  },
+  {
+   "kod": "3ğ",
+   "klasor": "3g2",
+   "ad": "Sağlık ve güvenlik işaretleri",
+   "bazDk": 10,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 15,
+   "slaytToplamSn": 600
+  },
+  {
+   "kod": "3h",
+   "klasor": "3h",
+   "ad": "Kişisel koruyucu donanım",
+   "bazDk": 20,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 17,
+   "slaytToplamSn": 1200
+  },
+  {
+   "kod": "3ı",
+   "klasor": "3i2",
+   "ad": "İSG genel kuralları ve güvenlik kültürü",
+   "bazDk": 15,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 16,
+   "slaytToplamSn": 900
+  },
+  {
+   "kod": "3i",
+   "klasor": "3i",
+   "ad": "Acil durumlar, tahliye ve kurtarma",
+   "bazDk": 15,
+   "egitici": "İGU",
+   "baslik": 3,
+   "slaytSayisi": 16,
+   "slaytToplamSn": 900
+  }
+ ],
+ "yerTutucular": {
+  "SINIF": [
+   "1a",
+   "1b",
+   "1c",
+   "1ç",
+   "2a",
+   "2b",
+   "2c",
+   "2ç",
+   "2d",
+   "3a",
+   "3b",
+   "3c",
+   "3ç",
+   "3d",
+   "3e",
+   "3f",
+   "3g",
+   "3ğ",
+   "3h",
+   "3ı",
+   "3i"
+  ],
+  "FİRMA": [
+   "1a",
+   "1b",
+   "1c",
+   "1ç",
+   "2a",
+   "2b",
+   "2c",
+   "2ç",
+   "2d",
+   "3a",
+   "3b",
+   "3c",
+   "3ç",
+   "3d",
+   "3e",
+   "3f",
+   "3g",
+   "3ğ",
+   "3h",
+   "3ı",
+   "3i"
+  ],
+  "DERS_SAATİ": [
+   "1a"
+  ],
+  "İSG_SORUMLUSU": [
+   "1a",
+   "1c",
+   "1ç",
+   "3a",
+   "3b",
+   "3c",
+   "3d",
+   "3e",
+   "3f",
+   "3g",
+   "3ğ",
+   "3h"
+  ],
+  "DESTEK_NO": [
+   "1b",
+   "2ç"
+  ],
+  "TEMSİLCİ_AD": [
+   "1b",
+   "2c",
+   "3ı"
+  ],
+  "İŞYERİ_HEKİMİ": [
+   "2a",
+   "2b",
+   "2c",
+   "2d"
+  ],
+  "İLKYARDIMCI_AD": [
+   "2ç",
+   "3i"
+  ],
+  "İLKYARDIM_DOLABI": [
+   "2ç"
+  ],
+  "FİRMA_ADRESİ": [
+   "2ç",
+   "3ç"
+  ],
+  "TOPLANMA_YERİ": [
+   "3ç",
+   "3i"
+  ],
+  "SÖNDÜRÜCÜ_TÜRÜ": [
+   "3ç"
+  ],
+  "ACİL_DURUM_EKİBİ": [
+   "3ç",
+   "3i"
+  ]
+ }
+}
