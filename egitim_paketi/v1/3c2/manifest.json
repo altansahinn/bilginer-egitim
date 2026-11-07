@@ -1,0 +1,207 @@
+{
+ "kod": "3ç",
+ "ad": "Yangın ve yangından korunma",
+ "bazDk": 30,
+ "egitici": "İGU",
+ "baslik": 3,
+ "slaytToplamSn": 1800,
+ "yerTutucular": [
+  "ACİL_DURUM_EKİBİ",
+  "FİRMA",
+  "FİRMA_ADRESİ",
+  "SINIF",
+  "SÖNDÜRÜCÜ_TÜRÜ",
+  "TOPLANMA_YERİ"
+ ],
+ "slaytlar": [
+  {
+   "id": "cover",
+   "dosya": "cover.html",
+   "tip": "cover",
+   "sn": 5,
+   "cekirdek": true
+  },
+  {
+   "id": "k1",
+   "dosya": "k1.html",
+   "tip": "k1",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "hedef",
+   "dosya": "hedef.html",
+   "tip": "hedef",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "nedenler",
+   "dosya": "nedenler.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "ucgen",
+   "dosya": "ucgen.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "siniflar",
+   "dosya": "siniflar.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "secim",
+   "dosya": "secim.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "kullanim",
+   "dosya": "kullanim.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "bakim",
+   "dosya": "bakim.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "depolama",
+   "dosya": "depolama.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "sicakis",
+   "dosya": "sicakis.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "elektrik",
+   "dosya": "elektrik.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "sistemler",
+   "dosya": "sistemler.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "hata",
+   "dosya": "hata.html",
+   "tip": "hata",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "hatacevap",
+   "dosya": "hatacevap.html",
+   "tip": "hatacevap",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "duman",
+   "dosya": "duman.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "kapitest",
+   "dosya": "kapitest.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "ihbar",
+   "dosya": "ihbar.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "vaka1",
+   "dosya": "vaka1.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "vaka2",
+   "dosya": "vaka2.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "senaryo",
+   "dosya": "senaryo.html",
+   "tip": "senaryo",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "senaryocevap",
+   "dosya": "senaryocevap.html",
+   "tip": "senaryocevap",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "tahliye",
+   "dosya": "tahliye.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "cep",
+   "dosya": "cep.html",
+   "tip": "cep",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "mq",
+   "dosya": "mq.html",
+   "tip": "mq",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "mq2",
+   "dosya": "mq2.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "end",
+   "dosya": "end.html",
+   "tip": "end",
+   "sn": 0,
+   "cekirdek": true
+  }
+ ]
+}
