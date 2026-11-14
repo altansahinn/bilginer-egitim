@@ -1,0 +1,141 @@
+{
+ "kod": "1ç",
+ "ad": "İş kazası ve meslek hastalığının hukuki sonuçları",
+ "bazDk": 25,
+ "egitici": "İGU",
+ "baslik": 1,
+ "slaytToplamSn": 1500,
+ "yerTutucular": [
+  "FİRMA",
+  "SINIF",
+  "İSG_SORUMLUSU"
+ ],
+ "slaytlar": [
+  {
+   "id": "cover",
+   "dosya": "cover.html",
+   "tip": "cover",
+   "sn": 5,
+   "cekirdek": true
+  },
+  {
+   "id": "k1",
+   "dosya": "k1.html",
+   "tip": "k1",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "hedef",
+   "dosya": "hedef.html",
+   "tip": "hedef",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "c1",
+   "dosya": "c1.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "c2",
+   "dosya": "c2.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "c3",
+   "dosya": "c3.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "c4",
+   "dosya": "c4.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "c5",
+   "dosya": "c5.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "c6",
+   "dosya": "c6.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "yd",
+   "dosya": "yd.html",
+   "tip": "yd",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "hata",
+   "dosya": "hata.html",
+   "tip": "hata",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "hatacevap",
+   "dosya": "hatacevap.html",
+   "tip": "hatacevap",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "vaka",
+   "dosya": "vaka.html",
+   "tip": "vaka",
+   "sn": 120,
+   "cekirdek": true
+  },
+  {
+   "id": "senaryo",
+   "dosya": "senaryo.html",
+   "tip": "senaryo",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "senaryocevap",
+   "dosya": "senaryocevap.html",
+   "tip": "senaryocevap",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "cep",
+   "dosya": "cep.html",
+   "tip": "cep",
+   "sn": 120,
+   "cekirdek": true
+  },
+  {
+   "id": "mq",
+   "dosya": "mq.html",
+   "tip": "mq",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "end",
+   "dosya": "end.html",
+   "tip": "end",
+   "sn": 0,
+   "cekirdek": true
+  }
+ ]
+}

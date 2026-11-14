@@ -1,0 +1,120 @@
+{
+ "kod": "2b",
+ "ad": "Korunma prensipleri ve teknikleri",
+ "bazDk": 15,
+ "egitici": "İH",
+ "baslik": 2,
+ "slaytToplamSn": 900,
+ "yerTutucular": [
+  "FİRMA",
+  "SINIF",
+  "İŞYERİ_HEKİMİ"
+ ],
+ "slaytlar": [
+  {
+   "id": "cover",
+   "dosya": "cover.html",
+   "tip": "cover",
+   "sn": 5,
+   "cekirdek": true
+  },
+  {
+   "id": "k1",
+   "dosya": "k1.html",
+   "tip": "k1",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "hedef",
+   "dosya": "hedef.html",
+   "tip": "hedef",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "sira",
+   "dosya": "sira.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "teknik",
+   "dosya": "teknik.html",
+   "tip": "icerik",
+   "sn": 120,
+   "cekirdek": false
+  },
+  {
+   "id": "hijyen",
+   "dosya": "hijyen.html",
+   "tip": "icerik",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "yd",
+   "dosya": "yd.html",
+   "tip": "yd",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "hata",
+   "dosya": "hata.html",
+   "tip": "hata",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "hatacevap",
+   "dosya": "hatacevap.html",
+   "tip": "hatacevap",
+   "sn": 60,
+   "cekirdek": false
+  },
+  {
+   "id": "vaka",
+   "dosya": "vaka.html",
+   "tip": "vaka",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "senaryo",
+   "dosya": "senaryo.html",
+   "tip": "senaryo",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "senaryocevap",
+   "dosya": "senaryocevap.html",
+   "tip": "senaryocevap",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "cep",
+   "dosya": "cep.html",
+   "tip": "cep",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "mq",
+   "dosya": "mq.html",
+   "tip": "mq",
+   "sn": 60,
+   "cekirdek": true
+  },
+  {
+   "id": "end",
+   "dosya": "end.html",
+   "tip": "end",
+   "sn": 0,
+   "cekirdek": true
+  }
+ ]
+}
