@@ -1,0 +1,20 @@
+EĞİTİM PAKETİ v3 (güncel) — BÖLÜMLÜ, YORUMLU SESLİ ANLATIM (Bilginer İSG Programı v6.97)
+
+Bu klasör GitHub'da egitim_paketi/v3 klasörüne yüklenir:
+  https://github.com/altansahinn/bilginer-egitim  →  egitim_paketi/v3/
+
+İçerik: paket.json + 21 konu klasörü; her klasörde 3 dosya:
+  manifest.json (slayt listesi, süreler anlatıma göre), ses.json (slayt başlangıç/bitiş saniyeleri, bölüm bölüm altyazı ve her slayt parçasının açılma anı), ses.mp3 (anlatım)
+Slayt dosyaları (html) YÜKLENMEZ: v3, slaytları egitim_paketi/v2 klasöründen okur (paket.json: "slaytSurum": "v2").
+v2 klasörünü SİLMEYİN.
+
+Anlatıcılar: 1. ve 2. başlık (genel + sağlık) Emel, 3. başlık (teknik) Ahmet.
+
+Programda:
+1) Uzaktan Eğitim › 1. sekme: adres  https://altansahinn.github.io/bilginer-egitim/egitim_paketi/v3  → Doğrula & Yükle
+2) 2. sekme: test_bankasi_v3.json ve ara_kontrol_sorulari_v3.json dosyalarını yükle → Sunucuya yükle
+3) Yeni atamalar v3 ile yapılır. v2 ile yapılmış atamalar etkilenmez.
+
+NOT (güncel v3):
+- Bu paket önceki v3 paketinin yerine geçer. Daha önce v3 yüklediysen, GitHub'daki egitim_paketi/v3 klasörünün içeriğini bu dosyalarla değiştir ve programda Doğrula & Yükle'yi yeniden yap.
+- Parça parça açılma ve slayt geçişi için program v6.97 (Kod.gs dahil) gerekir. Eski program bu paketi de oynatır, ama parçalar eski usulde açılır.
